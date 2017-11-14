@@ -1,0 +1,25 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn Git and Node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfFL028/git-test.git"
+  },
+  "keywords": [
+    "git-test"
+  ],
+  "author": "proffl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfFL028/git-test/issues"
+  },
+  "homepage": "https://github.com/ProfFL028/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
